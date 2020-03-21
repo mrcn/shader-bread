@@ -2,8 +2,8 @@ import React from "react";
 import "../styles.css";
 import Navigation from './Navigation';
 import TOC from './TOC';
-// import ReactDOM from "react-dom";
-// import { Link } from "react-router-dom";
+import ReactDOM from "react-dom";
+import { Link } from "react-router-dom";
 
 
 
